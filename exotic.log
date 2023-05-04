@@ -1,0 +1,2 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): exoplanetarchive.ipac.caltech.edu:443
+DEBUG:urllib3.connectionpool:https://exoplanetarchive.ipac.caltech.edu:443 "GET /TAP/sync?query=select+pl_name+from+ps+where+tran_flag+=+1+and+default_flag+=+1+order+by+pl_pubdate+desc+&format=csv HTTP/1.1" 200 None
