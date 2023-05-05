@@ -1,7 +1,10 @@
+progressbar2
+setuptools~=66.1
+bokeh
+barycorrpy
 astroalign
 astropy
 astroquery
-barycorrpy
 dynesty;platform_system=='Windows'
 holoviews
 importlib-metadata
@@ -21,4 +24,9 @@ requests
 scipy
 scikit-image
 tenacity
+cython
 ultranest;platform_system!='Windows'
+ipywidgets
+ipython
+fileupload
+jupyterlab
